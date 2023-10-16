@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meu Primeiro App Dio</string>
+    <string name="curiosidade">Curiosidade</string>
+    <string name="txt">
+        Você sabia que o navegador web Firefox, desenvolvido pela Mozilla, teve seu nome inspirado em um apelido de combate ao fogo? O panda-vermelho, nativo das montanhas do Himalaia, é conhecido como "firefox" em inglês. O nome foi escolhido para o navegador devido à semelhança do panda-vermelho com o logotipo do navegador e para evocar a ideia de rapidez e agilidade, associada à rapidez do navegador.Essa é uma curiosidade divertida sobre a origem do nome de um dos navegadores mais populares da atualidade!
+    </string>
+</resources>

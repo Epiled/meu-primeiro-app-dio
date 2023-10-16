@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">私の最初のDioアプリ (Watashi no Saisho no Dio Apuri)</string>
+    <string name="curiosidade">好奇心 (Kōkishin)</string>
+    <string name="txt">
+        Firefoxというウェブブラウザは、モジラによって開発されたものであり、その名前は火災に関連したあだ名にちなんで名付けられたことを知っていましたか？ヒマラヤ山脈原産のレッサーパンダは、英語で「firefox」として知られています。この名前は、ブラウザのロゴとレッサーパンダの類似性、そしてブラウザのパフォーマンスに関連するスピードと敏捷性のアイディアを喚起するために選ばれました。
+    </string>
+</resources>

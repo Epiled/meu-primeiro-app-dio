@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Premier App Dio</string>
+    <string name="curiosidade">Curiosité</string>
+    <string name="txt">
+        Saviez-vous que le navigateur web Firefox, développé par Mozilla, a été nommé d\'après un surnom lié au feu ? Le panda roux, originaire des montagnes de l\'Himalaya, est appelé "firefox" en anglais. Le nom a été choisi pour le navigateur en raison de la ressemblance du panda roux avec le logo du navigateur et pour évoquer l\'idée de rapidité et d\'agilité associée aux performances du navigateur.
+    </string>
+</resources>

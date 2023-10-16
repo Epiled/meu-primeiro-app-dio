@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min Første Dio App</string>
+    <string name="curiosidade">Nysgjerrighet</string>
+    <string name="txt">
+        Visste du at nettleseren Firefox, utviklet av Mozilla, fikk navnet sitt etter et kallenavn knyttet til ild? Den røde pandaen, som er hjemmehørende i Himalaya-fjellene, kalles "firefox" på engelsk. Navnet ble valgt for nettleseren på grunn av den røde pandaens likhet med nettleserens logo, og for å vekke ideen om hastighet og smidighet knyttet til nettleserens ytelse.
+    </string>
+</resources>
