@@ -1,8 +1,10 @@
-![minibank](https://github.com/Epiled/monibank/assets/55258483/61220f15-5f6f-4616-961c-f64a28c4693a)
+![meu-primeiro-app](https://github.com/Epiled/meu-primeiro-app-dio/assets/55258483/0779d12d-99b3-4490-91e5-d77035ed16dc)
 
 <h1 align="center" id="sobre">🟪 📱 Meu Primeiro App Dio 📱 🟪</h1>
 
-<p>Desafio do Bootcamp de Kotlin, criando um App no Android Studio, do Bootcamp da Dio patrocinado pelo Santander</p>
+<p>Desafio do Bootcamp de Kotlin, no qual desenvolvi um aplicativo no Android Studio, patrocinado pelo Santander como parte do Bootcamp da Dio.</p>
+
+<p>O aplicativo possui suporte para cinco idiomas: Português, Inglês, Francês, Japonês e Norueguês.</p>
 
 ![Badge](https://img.shields.io/github/last-commit/Epiled/meu-primeiro-app-dio?style=for-the-badge)
 ![Badge](https://img.shields.io/github/languages/code-size/Epiled/meu-primeiro-app-dio?style=for-the-badge)
@@ -27,7 +29,7 @@
 
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
-![monibank_desktop](https://github.com/Epiled/monibank/assets/55258483/08fad58a-78ba-4dd4-9b89-915cf47bbea4)
+https://github.com/Epiled/meu-primeiro-app-dio/assets/55258483/370ce83f-ee0b-4eac-99cf-22a339d4bba4
 
 <h2 id="instalacao"> ⚙ Instalação </h2>
 
